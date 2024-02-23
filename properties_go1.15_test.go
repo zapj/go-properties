@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/magiconair/properties/assert"
+	"github.com/zapj/go-properties/assert"
 )
 
 // TestMustGetParsedDuration works with go1.15 and beyond where the panic
